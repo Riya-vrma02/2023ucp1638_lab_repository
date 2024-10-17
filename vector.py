@@ -8,7 +8,7 @@ n=3
 def dotProduct(vect_A, vect_B):
     product = 0
     for i in range(0, n):
-        product = product + vect_A[i] * vect_B[i]
+        product = product - vect_A[i] * vect_B[i]
     return product
 if __name__=='__main__':
     vect_A = [a, -b, c]
