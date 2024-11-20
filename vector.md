@@ -1,11 +1,11 @@
-#headings
-##vector dot product
-###product of vector a and vector b
+# headings
+## vector dot product
+### product of vector a and vector b
 
-#styling
+# styling
 ** a.b**
 
-#quoting text
+# quoting text
 > this is a quoted text
 
 # link
@@ -28,8 +28,8 @@ Here is a simple footnote[^1].
 # alerts
 >[!NOTE]
 >Key information users need to know to achieve their goal.
-> [!TIP]
-> practice daily.!!!
+>[!TIP]
+>practice daily.!!!
 >
 # Tables 
 |Version|Approach|Complexity|Memory Usage|Performance|
@@ -38,7 +38,7 @@ Here is a simple footnote[^1].
 |Parallelized|	Multithreading|O(n/p)|	Moderate|	High|
 SIMD Optimized|	Vectorized operations|O(n/k)|	High	|Very High|
 
-#code
+# code
 ```py
 a=int(input("i component of vectorA : "))
 b=int(input("j component of vectorA : "))
@@ -60,5 +60,5 @@ if __name__=='__main__':
     print(dotProduct(vect_A, vect_B))
 ```
 
-#mathematical expression
+# mathematical expression
 $\mathbf{A} \cdot \mathbf{B} = \sum_{i=1}^{n} a_i \cdot b_i$
