@@ -3,7 +3,7 @@
 ### product of vector a and vector b
 
 # styling
-** a.b **
+**a.b**
 
 # quoting text
 > this is a quoted text
@@ -28,9 +28,7 @@ Here is a simple footnote[^1].
 # alerts
 >[!NOTE]
 >Key information users need to know to achieve their goal.
-> [!TIP]
->practice daily.!!!
->
+
 # Tables 
 |Version|Approach|Complexity|Memory Usage|Performance|
 |----|----|----|----|----|
