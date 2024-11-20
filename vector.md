@@ -3,7 +3,7 @@
 ### product of vector a and vector b
 
 # styling
-** a.b**
+** a.b **
 
 # quoting text
 > this is a quoted text
@@ -19,7 +19,7 @@
 
 # task list
 - [x] enter the vector components
-- [] compile the file
+- [ ] compile the file
   
 # footnote
 Here is a simple footnote[^1].
@@ -28,7 +28,7 @@ Here is a simple footnote[^1].
 # alerts
 >[!NOTE]
 >Key information users need to know to achieve their goal.
->[!TIP]
+> [!TIP]
 >practice daily.!!!
 >
 # Tables 
