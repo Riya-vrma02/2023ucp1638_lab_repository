@@ -4,6 +4,7 @@
 
 # styling
 **a.b**
+*it is in italic*
 
 # quoting text
 > this is a quoted text
